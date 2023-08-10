@@ -1,7 +1,10 @@
 /* Create adjacency matrix and the following functions: 
  *  - breadth first search
+ *      # use queue
  *  - find connected components 
+ *      # use kosurajus? disjoint-set DS?
  *  - find a spanning tree 
+ *      # use prim's or kruskal's
  */
 
 #include <stdio.h>
